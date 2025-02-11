@@ -28,6 +28,7 @@
     "api-dylux": "1.8.5",
     "sqlite3": "latest",
     "adm-zip": "^0.5.16",
+    "xnxx-dl" : "1.0.4",
     "request":"latest",
     "google-tts-api":"2.0.2",
     "wa-sticker-formatter":"4.4.4",
@@ -52,6 +53,8 @@
     "wikipedia":"2.1.2",
     "buffer":"6.0.3",
     "axios-cookiejar-support": "latest",
-    "tough-cookie": "latest"
+    "tough-cookie": "latest",
+    "async-g-i-s":"^1.4.0",
+    "human-readable": "latest"
   }
 }
